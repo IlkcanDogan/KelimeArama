@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KelimeArama", "KelimeArama\KelimeArama.csproj", "{C51531C5-1CF6-48CE-995F-507D7CA9A1CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C51531C5-1CF6-48CE-995F-507D7CA9A1CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C51531C5-1CF6-48CE-995F-507D7CA9A1CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C51531C5-1CF6-48CE-995F-507D7CA9A1CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C51531C5-1CF6-48CE-995F-507D7CA9A1CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {71DA267D-6AED-4974-BA4A-215537EBF8A0}
+	EndGlobalSection
+EndGlobal

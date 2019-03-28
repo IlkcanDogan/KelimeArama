@@ -1,0 +1,29 @@
+C:\Users\Ramazan\AppData\Local\Temporary Projects\Proje4\bin\Debug\Proje4.exe.config
+C:\Users\Ramazan\AppData\Local\Temporary Projects\Proje4\bin\Debug\Proje4.exe
+C:\Users\Ramazan\AppData\Local\Temporary Projects\Proje4\bin\Debug\Proje4.pdb
+C:\Users\Ramazan\AppData\Local\Temporary Projects\Proje4\obj\Debug\Proje4.Form1.resources
+C:\Users\Ramazan\AppData\Local\Temporary Projects\Proje4\obj\Debug\Proje4.Properties.Resources.resources
+C:\Users\Ramazan\AppData\Local\Temporary Projects\Proje4\obj\Debug\Proje4.csproj.GenerateResource.cache
+C:\Users\Ramazan\AppData\Local\Temporary Projects\Proje4\obj\Debug\Proje4.csproj.CoreCompileInputs.cache
+C:\Users\Ramazan\AppData\Local\Temporary Projects\Proje4\obj\Debug\Proje4.exe
+C:\Users\Ramazan\AppData\Local\Temporary Projects\Proje4\obj\Debug\Proje4.pdb
+C:\Users\Ramazan\Desktop\Proje5\Proje4\bin\Debug\Proje4.exe.config
+C:\Users\Ramazan\Desktop\Proje5\Proje4\bin\Debug\Proje4.exe
+C:\Users\Ramazan\Desktop\Proje5\Proje4\bin\Debug\Proje4.pdb
+C:\Users\Ramazan\Desktop\Proje5\Proje4\obj\Debug\Proje4.csprojAssemblyReference.cache
+C:\Users\Ramazan\Desktop\Proje5\Proje4\obj\Debug\Proje4.Form1.resources
+C:\Users\Ramazan\Desktop\Proje5\Proje4\obj\Debug\Proje4.Properties.Resources.resources
+C:\Users\Ramazan\Desktop\Proje5\Proje4\obj\Debug\Proje4.csproj.GenerateResource.cache
+C:\Users\Ramazan\Desktop\Proje5\Proje4\obj\Debug\Proje4.csproj.CoreCompileInputs.cache
+C:\Users\Ramazan\Desktop\Proje5\Proje4\obj\Debug\Proje4.exe
+C:\Users\Ramazan\Desktop\Proje5\Proje4\obj\Debug\Proje4.pdb
+C:\Users\MKA\Desktop\P\Proje5\Proje4\bin\Debug\Proje4.exe.config
+C:\Users\MKA\Desktop\P\Proje5\Proje4\bin\Debug\Proje4.exe
+C:\Users\MKA\Desktop\P\Proje5\Proje4\bin\Debug\Proje4.pdb
+C:\Users\MKA\Desktop\P\Proje5\Proje4\obj\Debug\Proje4.csprojAssemblyReference.cache
+C:\Users\MKA\Desktop\P\Proje5\Proje4\obj\Debug\Proje4.Form1.resources
+C:\Users\MKA\Desktop\P\Proje5\Proje4\obj\Debug\Proje4.Properties.Resources.resources
+C:\Users\MKA\Desktop\P\Proje5\Proje4\obj\Debug\Proje4.csproj.GenerateResource.cache
+C:\Users\MKA\Desktop\P\Proje5\Proje4\obj\Debug\Proje4.csproj.CoreCompileInputs.cache
+C:\Users\MKA\Desktop\P\Proje5\Proje4\obj\Debug\Proje4.exe
+C:\Users\MKA\Desktop\P\Proje5\Proje4\obj\Debug\Proje4.pdb
